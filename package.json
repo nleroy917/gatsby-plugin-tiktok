@@ -13,8 +13,9 @@
   "keywords": [
     "gatsby",
     "tiktok",
-    "plugin",
-    "embed"
+    "gatsby-plugin",
+    "embed",
+    "social-media"
   ],
   "author": "Nathan LeRoy",
   "license": "ISC",
