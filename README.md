@@ -2,7 +2,7 @@
 Loads the TikTok JavaScript and CSS necessary for embedding TikTok videos into your Gatsby site without the need for the <script> tag.
 
 ## Install
-npm install gatsby-plugin-tiktok
+`npm install gatsby-plugin-tiktok`
 
 ## Configure
 ```js
