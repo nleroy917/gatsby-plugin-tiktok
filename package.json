@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugin-tiktok",
+  "version": "1.0.0",
+  "description": "Load the TikTok JavaScript and CSS necessary for embedding TikToks into your site without the need for the <script> tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLeRoy917/gatsby-plugin-tiktok.git"
+  },
+  "keywords": [
+    "gatsby",
+    "tiktok",
+    "plugin",
+    "embed"
+  ],
+  "author": "Nathan LeRoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NLeRoy917/gatsby-plugin-tiktok/issues"
+  },
+  "homepage": "https://github.com/NLeRoy917/gatsby-plugin-tiktok#readme"
+}
