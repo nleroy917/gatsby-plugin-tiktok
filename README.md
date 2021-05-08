@@ -7,7 +7,7 @@ npm install gatsby-plugin-tiktok
 ## Configure
 ```js
 // In your gatsby-config.js
-plugins: [`gatsby-plugin-twitter`]
+plugins: [`gatsby-plugin-tiktok`]
 ```
 ## How to Use
 1. Find the TikTok you'd like to embed (You must be on the browser).
