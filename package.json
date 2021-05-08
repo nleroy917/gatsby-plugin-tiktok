@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-tiktok",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load the TikTok JavaScript and CSS necessary for embedding TikToks into your site without the need for the <script> tag.",
   "main": "index.js",
   "scripts": {
